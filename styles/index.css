@@ -43,6 +43,10 @@ h6{font-size:0.125em;}
 	margin-right: 300px;
 	padding: 50px;
 	}
+
+#logo {
+	min-width: 10%; max-width:225px; margin:auto; height:auto; width:auto; display:block;
+	}
 	
 #side-menu {
   height: 100%;
@@ -92,6 +96,10 @@ h6{font-size:0.125em;}
 #main-content {
 	margin-left: 0px;
 	padding-top: 100px;
+	}
+	
+#logo {
+	height:50px; margin-top: auto; margin-bottom: auto; margin-left: 10px; height:auto; width:auto; display:block;
 	}
 	
 #side-menu {
