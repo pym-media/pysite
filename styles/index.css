@@ -7,6 +7,7 @@ h1 {font-family: 'Jockey One', serif; font-weight: 800;}
 h2, h3, h4, h5, h6{font-family: 'Jockey One', sans;font-weight: 700;}
 p, a, td, .normalfont{font-family: 'Inter', sans-serif;}
 
+
 table {background-color: lightyellow;}
 
 
@@ -20,7 +21,7 @@ h2,.minilogo, #main-title{font-size:1.333em;}
 h3{font-size:1em;}
 h4, p {font-size:0.75em;}
 h5{font-size:0.563em;}
-h6{font-size:0.125em;}
+h6, footer p{font-size:0.125em;}
 
 
 /* Branding designs */
