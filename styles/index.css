@@ -1,8 +1,8 @@
 @import url('https://python-megapixel.github.io/fontdata/fonts.css');
 /* Font specifications */
 
-h1 {font-family: 'Staubach', serif; font-weight: 550; letter-spacing: 1.25px}
-h2, h3, h4, h5, h6{font-family: 'Staubach', sans;font-weight: 450;}
+h1 {font-family: 'Octin College', serif; font-weight: 550; }
+h2, h3, h4, h5, h6{font-family: 'Octin College', sans;font-weight: 450;}
 p, a, td, .normalfont{font-family: 'Inter', sans-serif;}
 
 
