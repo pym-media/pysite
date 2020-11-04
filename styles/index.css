@@ -3,7 +3,7 @@
 
 h1 {font-family: 'Staubach', serif; font-weight: 550; }
 h2, h3, h4, h5, h6{font-family: 'Staubach', sans;font-weight: 450;letter-spacing:1.2px;}
-p, a, td, .normalfont, div div, li,{font-family: 'Inter', sans-serif;}
+p, a, td, .normalfont, div div, li{font-family: 'Inter', sans-serif;}
 
 
 table {background-color: lightyellow;}
