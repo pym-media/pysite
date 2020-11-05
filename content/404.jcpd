@@ -8,9 +8,9 @@
   <body style="background-color:#ff0000;">
     <center>
       <span style="font-family: 'Staubach', serif; color: #ffffff; font-size: 8em; font-weight: 550;">404</span><br>
-      <span style="font-family: 'Inter', sans-serif; color: #ffffff; font-size: 2em;"><b>Page not found</b><br>
+      <span style="font-family: 'Inter', sans-serif; color: #ffffff; font-size: 1.5em;"><b>Page not found</b><br>
       You may wish to <a href="javascript:window.history.back();">go back</a> or <a href="/">go to the homepage.</a></span><br>
-      <img src="/verbatim/staticimg/PFP.png" style="width:7%;">
+      <img src="/verbatim/staticimg/PFP.png" style="width:15%;">
 
       
 </center> </body> </html>
