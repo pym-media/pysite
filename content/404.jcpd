@@ -1,12 +1,5 @@
-@@linkStyle index
 <html>
-<title>Not Found</title>
-<body style="background-color: #ff0000">
-<div style="height:50%;margin-left:auto;margin-top:25%;color:white;"><center>
-<h1 class="errorcode" style="line-height: 0.2">404</h1>
-<h3 style="font-family: 'Inter', 'Helvetica', sans-serif;">This page does not exist.</h3>
-<span class="normalfont">You may wish to <a href="javascript:window.history.back()">go back</a> or <a href="/">go to the homepage.</a></span>
-</center>
-</div>
-</body>
-</html>
+  <body style="background-color:#ff0000;">
+    <center>
+      <span style="font-face: Staubach, serif; color: #ffffff; font-size: 8em; font-weight: 550;">404</span>
+      
