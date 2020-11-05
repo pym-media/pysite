@@ -1,5 +1,14 @@
 <html>
+<head>
+    <title>Error 404 Not Found</title>
+    <link src="https://python-megapixel.github.io/fontdata/fonts.css" rel="stylesheet">
+   </head>
   <body style="background-color:#ff0000;">
     <center>
-      <span style="font-face: Staubach, serif; color: #ffffff; font-size: 8em; font-weight: 550;">404</span>
+      <span style="font-face: 'Staubach', serif; color: #ffffff; font-size: 8em; font-weight: 550;">404</span>
+      <span style="font-face: 'Inter', sans-serif; color: #ffffff; font-size: 1em;"><b>Page not found</b><br>
+      You may wish to <a href="javascript:window.history.back();">go back</a> or <a href="/">go to the homepage.</a></span>
+      <img src="/verbatim/staticimg/PFP.png" style="width:20%;">
+
       
+</center> </body> </html>
