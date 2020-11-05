@@ -1,7 +1,9 @@
 <html>
 <head>
     <title>Error 404 Not Found</title>
-    <link src="https://python-megapixel.github.io/fontdata/fonts.css" rel="stylesheet">
+    <style>
+    @import url('https://python-megapixel.github.io/fontdata/fonts.css');
+    </style>
    </head>
   <body style="background-color:#ff0000;">
     <center>
