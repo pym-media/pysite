@@ -2,10 +2,10 @@
 <html>
 <title>Not Found</title>
 <body style="background-color: #ff0000">
-<center>
+<div style="margin:auto;">
 <h1 class="errorcode" style="line-height: 0.2">404</h1>
 <h3 style="font-family: 'Inter', 'Helvetica', sans-serif;">This page does not exist.</h3>
 <p> You may wish to <a href="javascript:window.history.back()">go back</a> or <a href="/">go to the homepage.</a> </p>
-
+</div>
 </body>
 </html>
